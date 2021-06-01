@@ -46,4 +46,4 @@ if (command === "ecojoin"){
                 return message.channel.send(errorEmbed2)
             }
         })
-    }
+    } 
